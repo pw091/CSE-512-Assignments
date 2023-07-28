@@ -6,6 +6,7 @@ CSE 512: Data Visualization
 3. Interactive Visualization - D3.js
 
 ## 1
+![asgn1](relative/path/to/image.png)
 
 ## 2
 
