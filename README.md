@@ -12,4 +12,4 @@ CSE 512: Data Visualization
 ![asgn2-earnest](2/a2_earnest.png)
 ![asgn2-deceptive](2/a2_deceptive.png)
 
-## 3 [Observable Notebook]([https://www.example.com](https://observablehq.com/d/3d06e3088c7a6d34)
+## 3 [Observable Notebook](https://observablehq.com/d/3d06e3088c7a6d34)
