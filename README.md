@@ -14,3 +14,4 @@ CSE 512: Data Visualization
 
 ## 3 
 # [Observable Notebook](https://observablehq.com/d/3d06e3088c7a6d34)
+(https://observablehq.com/d/3d06e3088c7a6d34)
